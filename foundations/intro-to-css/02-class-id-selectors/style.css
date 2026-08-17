@@ -1,1 +1,17 @@
-/* Add CSS Styling */
+.oddNumber{
+    background-color: lightcoral;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.bigger {
+    font-size: 24px;
+}
+#div1{
+    color: blue;
+    font-size: 36px;
+}
+#div2{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
